@@ -20,8 +20,10 @@ export default {
     return {
       design: app,
       viewModel: {
-        name:'',
-        result: ''
+        user: {
+          name: "Peter",
+          lastname: "Fox"
+        }
       },
       config: {
       }

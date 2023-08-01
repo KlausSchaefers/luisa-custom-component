@@ -1,4 +1,4 @@
-# luisa-vue3-starter
+# luisa-custom-compomemt
 
 ## Project setup
 ```

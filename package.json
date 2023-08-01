@@ -9,9 +9,10 @@
     "download": "node node_modules/luisa-util/lib/index.js",
     "lint": "vue-cli-service lint"
   },
-  "dependencies": { 
-    "luisa-vue": "^3.0.28",   
+  "dependencies": {
     "core-js": "^3.8.3",
+    "luisa-util": "^1.0.10",
+    "luisa-vue": "^3.0.28",
     "vue": "^3.2.13",
     "vue-router": "^4.0.3"
   },
